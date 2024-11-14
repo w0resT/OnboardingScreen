@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  OnboardingScreen
-//
-//  Created by Mikhail on 14.11.2024.
-//
-
 import UIKit
 
 @main
